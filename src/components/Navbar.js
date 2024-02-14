@@ -81,8 +81,12 @@ const NavBar = () => {
                 <img src={socialIcon2} alt="" />
               </a>
             </div>
-            {/* BENERIN HREF LINK */}
-            <a className="cta">
+            <a
+              className="cta"
+              href="https://drive.google.com/file/d/1Yl5PP6t0_XDhN75FulMKyrVWltrjrCrJ/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
               <span>My Resume</span>
             </a>
           </span>
